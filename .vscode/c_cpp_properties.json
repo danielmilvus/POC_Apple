@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "~/milvus-workspace/milvus-shared-lib/src/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "macos-clang-x64",
+            "compilerArgs": [
+                "-MMD",
+                "-MP",
+                "-Wall",
+                "-ansi",
+                "-g3",
+                "-pedantic",
+                "-O0",
+                "-c",
+                "-lm",
+                "-std=c++17"
+            ]
+        }
+    ],
+    "version": 4
+}

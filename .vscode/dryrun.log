@@ -1,0 +1,13 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/milvus/milvus-workspace/POC'
+mkdir -p build/./src/Machine/
+g++ -I./src -I./src/Machine -MMD -MP -Wall -ansi -g3 -pedantic -O0 -c -std=c++17  -c src/Machine/CNetwork.cpp -o build/./src/Machine/CNetwork.cpp.o
+mkdir -p build/./src/Machine/
+g++ -I./src -I./src/Machine -MMD -MP -Wall -ansi -g3 -pedantic -O0 -c -std=c++17  -c src/Machine/CHardware.cpp -o build/./src/Machine/CHardware.cpp.o
+mkdir -p build/./src/Machine/
+g++ -I./src -I./src/Machine -MMD -MP -Wall -ansi -g3 -pedantic -O0 -c -std=c++17  -c src/Machine/CSystem.cpp -o build/./src/Machine/CSystem.cpp.o
+mkdir -p build/./src/
+g++ -I./src -I./src/Machine -MMD -MP -Wall -ansi -g3 -pedantic -O0 -c -std=c++17  -c src/main.cpp -o build/./src/main.cpp.o
+g++ ./build/./src/Machine/CNetwork.cpp.o ./build/./src/Machine/CHardware.cpp.o ./build/./src/Machine/CSystem.cpp.o ./build/./src/main.cpp.o -o build/POC  -lstdc++ -lc -lproc 
+make: Leaving directory `/Users/milvus/milvus-workspace/POC'
+ 

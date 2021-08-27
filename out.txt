@@ -1,0 +1,455 @@
+Network map:
+  Adaptor Name : 'anpi0'
+	Mac          : 1E:00:79:0A:38:59
+	Ip4          : 
+	Ip6          : fe80::1c00:79ff:fe0a:3859
+
+  Adaptor Name : 'anpi1'
+	Mac          : 1E:00:79:0A:38:5A
+	Ip4          : 
+	Ip6          : fe80::1c00:79ff:fe0a:385a
+
+  Adaptor Name : 'ap1'
+	Mac          : 3E:06:30:05:B8:4B
+	Ip4          : 
+	Ip6          : 
+
+  Adaptor Name : 'awdl0'
+	Mac          : 06:97:65:0E:9F:C4
+	Ip4          : 
+	Ip6          : fe80::497:65ff:fe0e:9fc4
+
+  Adaptor Name : 'bridge0'
+	Mac          : 36:CE:B9:45:63:80
+	Ip4          : 
+	Ip6          : 
+
+  Adaptor Name : 'en0' [ACTIVE]
+	Mac          : 3C:06:30:05:B8:4B
+	Ip4          : 192.168.15.122
+	Ip6          : 2804:431:c7f4:6259:314e:45f9:a7d1:41ea
+
+  Adaptor Name : 'en1'
+	Mac          : 36:CE:B9:45:63:80
+	Ip4          : 
+	Ip6          : 
+
+  Adaptor Name : 'en2'
+	Mac          : 36:CE:B9:45:63:84
+	Ip4          : 
+	Ip6          : 
+
+  Adaptor Name : 'en3'
+	Mac          : 1E:00:79:0A:38:39
+	Ip4          : 
+	Ip6          : 
+
+  Adaptor Name : 'en4'
+	Mac          : 1E:00:79:0A:38:3A
+	Ip4          : 
+	Ip6          : 
+
+  Adaptor Name : 'en6'
+	Mac          : 98:FC:84:E5:1C:CE
+	Ip4          : 
+	Ip6          : 
+
+  Adaptor Name : 'gif0'
+	Mac          : 00:00:00:00:00:00
+	Ip4          : 
+	Ip6          : 
+
+  Adaptor Name : 'llw0'
+	Mac          : 06:97:65:0E:9F:C4
+	Ip4          : 
+	Ip6          : fe80::497:65ff:fe0e:9fc4
+
+  Adaptor Name : 'lo0'
+	Mac          : 00:00:00:00:00:00
+	Ip4          : 127.0.0.1
+	Ip6          : fe80::1
+
+  Adaptor Name : 'stf0'
+	Mac          : 00:00:00:00:00:00
+	Ip4          : 
+	Ip6          : 
+
+  Adaptor Name : 'utun0'
+	Mac          : 00:00:00:00:00:00
+	Ip4          : 
+	Ip6          : fe80::771:d0aa:6e03:89e
+
+  Adaptor Name : 'utun1'
+	Mac          : 00:00:00:00:00:00
+	Ip4          : 
+	Ip6          : fe80::4b81:e62a:3a60:4554
+
+Station:       Notebook
+CPU-Name:      Apple M1
+MB-Name:       J293AP
+OS:            Darwin
+Version:       20G95
+Hostname:      MacBook-Pro-de-Daniel.local
+
+HDD Size:     228GB
+HDD Free:      184GB
+PID   
+Program
+1     launchd
+67    syslogd
+70    uninstalld
+71    fseventsd
+72    mediaremoted
+77    configd
+79    powerd
+82    remoted
+84    logd
+90    watchdogd
+94    mds
+96    kernelmanagerd
+97    diskarbitrationd
+100   coreduetd
+103   thermalmonitord
+104   contextstored
+105   opendirectoryd
+106   apsd
+107   launchservicesd
+108   timed
+109   usbmuxd
+110   securityd
+111   auditd
+113   locationd
+115   autofsd
+116   dasd
+122   logind
+123   revisiond
+124   KernelEventAgent
+126   bluetoothd
+127   notifyd
+129   corebrightnessd
+130   AirPlayXPCHelper
+132   coreservicesd
+133   WindowServer
+136   loginwindow
+147   authd
+160   runningboardd
+182   coreaudiod
+184   analyticsd
+191   apfsd
+192   airportd
+204   biokitaggdd
+205   symptomsd
+212   syspolicyd
+222   mDNSResponder
+225   diskmanagementd
+231   awdd
+236   mDNSResponderHelper
+264   searchpartyd
+268   appleeventsd
+299   mds_stores
+312   wifianalyticsd
+321   cfprefsd
+322   securityd_service
+325   UserEventAgent
+329   knowledge-agent
+331   lsd
+332   secd
+333   CommCenter
+336   ContextStoreAgent
+337   nsurlsessiond
+338   Safari
+339   backgroundtaskmanagementagent
+340   rapportd
+341   usernoted
+342   routined
+343   sharedfilelistd
+344   lockoutagent
+345   trustd
+347   WiFiAgent
+348   Mail
+349   Electron
+353   ScreenTimeAgent
+356   identityservicesd
+358   accountsd
+362   Hubstaff
+363   Terminal
+364   Activity Monitor
+365   Stocks
+366   Notes
+368   Dock
+369   ControlCenter
+370   SystemUIServer
+372   Finder
+374   pboard
+375   ViewBridgeAuxiliary
+377   pkd
+381   NotificationCenter
+382   fontd
+383   fontworker
+385   com.apple.Safari.History
+390   filecoordinationd
+393   itunescloudd
+395   CVMServer
+396   useractivityd
+397   com.apple.dock.extra
+399   parsecd
+402   Spotlight
+403   sharingd
+404   sysmond
+406   CalendarAgent
+407   UIKitSystem
+410   passd
+412   imagent
+414   imklaunchagent
+417   commerce
+436   spindump_agent
+438   PAH_Extension
+439   ctkd
+440   EmojiFunctionRowIM_Extension
+441   SubmitDiagInfo
+442   coreauthd
+449   akd
+454   mediaremoteagent
+455   fmfd
+458   familycircled
+459   netbiosd
+464   adid
+468   AMPDeviceDiscoveryAgent
+471   corespotlightd
+476   suggestd
+479   assistantd
+482   com.apple.WebKit.Networking
+489   AMPLibraryAgent
+493   fairplayd
+495   com.apple.AmbientDisplayAgent
+497   systemstats
+505   distnoted
+506   appleh13camerad
+511   TouchBarServer
+513   ControlStrip
+517   ContextService
+527   corespeechd
+532   icdd
+535   AirPlayUIAgent
+536   cloudpaird
+537   diagnostics_agent
+538   TextInputMenuAgent
+542   oahd
+543   ctkahp
+550   CrashReporterSupportHelper
+551   AppleSpell
+598   chrome_crashpad_handler
+599   Code Helper (GPU)
+602   Code Helper
+609   rtcreportingd
+782   com.apple.geod
+928   PasswordBreachAgent
+935   com.apple.Safari.SearchHelper
+943   lskdd
+948   photoanalysisd
+961   com.apple.speech.speechsynthesisd
+988   assistant_service
+1560  mapspushd
+2771  login
+2909  storeuid
+2950  mdbulkimport
+3453  zsh
+3694  mdwrite
+6337  USBAgent
+6346  storeaccountd
+6382  PerfPowerServices
+6406  IMAutomaticHistoryDeletionAgent
+6511  storagekitd
+6518  storedownloadd
+8633  com.apple.AppleUserHIDDrivers
+8649  ImageIOXPCService
+8669  com.apple.Safari.SafeBrowsing.Service
+8672  secinitd
+8673  containermanagerd
+8700  softwareupdated
+8701  suhelperd
+8702  system_installd
+8707  StocksWidget
+8759  com.apple.DriverKit.AppleUserECM
+8760  com.apple.DriverKit.AppleUserECMData
+8789  tccd
+8817  com.apple.CodeSigningHelper
+8831  SafariBookmarksSyncAgent
+8832  AssetCacheLocatorService
+8951  cpptools
+9241  CAReportingService
+9248  WirelessRadioManagerd
+9249  Keychain Circle Notification
+9250  cdpd
+9251  keybagd
+9254  Siri
+9255  com.apple.hiservices-xpcservice
+9256  gamecontrollerd
+9257  mobileassetd
+9258  com.apple.ifdreader
+9259  usbd
+9260  bird
+9261  ContainerMetadataExtractor
+9268  PowerUIAgent
+9269  triald
+9270  SiriNCService
+9273  DockHelper
+9274  iconservicesagent
+9275  iconservicesd
+9276  com.apple.quicklook.ThumbnailsAgent
+9277  CoreServicesUIAgent
+9284  ScreenTimeWidgetExtension
+9285  UsageTrackingAgent
+9286  CategoriesService
+9296  nehelper
+9297  neagent
+9304  CalNCService
+9308  ContactsAccountsService
+9311  swcd
+9314  dmd
+9316  translationd
+9318  com.apple.WebKit.WebContent
+9319  MTLCompilerService
+9320  dprivacyd
+9322  WeatherWidget
+9332  com.apple.accessibility.mediaaccessibilityd
+9340  VTDecoderXPCService
+9351  sandboxd
+9352  logd_helper
+9353  pbs
+9355  backupd-helper
+9356  backupd
+9364  Code Helper (Renderer)
+9403  XprotectService
+9437  com.apple.iCloudHelper
+9438  IMDPersistenceAgent
+9439  com.apple.siri.embeddedspeech
+9441  reversetemplated
+9446  siriknowledged
+9447  spindump
+9485  keyboardservicesd
+9486  parsec-fbf
+9619  cloudd
+9773  amsengagementd
+9774  CalendarWidgetExtension
+9775  WorldClockWidget
+9789  remindd
+10041 cpptools-srv
+10043 appstoreagent
+10044 installcoordinationd
+10045 com.apple.AppStoreDaemon.StorePrivilegedTaskService
+10046 printtool
+10047 cupsd
+10048 recentsd
+10049 progressd
+10050 systemsoundserverd
+10051 AudioComponentRegistrar
+10052 com.apple.audio.SandboxHelper
+10068 mdworker_shared
+10073 POC
+getCPUCores: 8
+<>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><>
+getTotalSystemMemory: 8GB
+getTotalMemorySysctl: 8GB
+
+active_count: 117608
+inactive_count: 116046
+wire_count: 75300
+throttled_count: 0
+purgeable_count: 2856
+vm_stat.zero_fill_count: 150545
+external_page_count: 83692
+total_uncompressed_pages_in_compressor: 424818
+vm_stat.cow_faults: 3138604
+compressor_page_count: 164858
+speculative_count: 583
+vm_stat.zero_fill_count: 24882400
+free_count: 8848
+speculative_count: 583
+
+Used: 3GB Free: 138MB Total: 3GB
+<>< CPU Load: 0.000000%
+<>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><>
+getTotalSystemMemory: 8GB
+getTotalMemorySysctl: 8GB
+
+active_count: 119209
+inactive_count: 117074
+wire_count: 76218
+throttled_count: 0
+purgeable_count: 2618
+vm_stat.zero_fill_count: 153173
+external_page_count: 83772
+total_uncompressed_pages_in_compressor: 423957
+vm_stat.cow_faults: 3138815
+compressor_page_count: 164331
+speculative_count: 662
+vm_stat.zero_fill_count: 24885087
+free_count: 5783
+speculative_count: 662
+
+Used: 3GB Free: 90MB Total: 3GB
+<>< CPU Load: 6.708074%
+<>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><>
+getTotalSystemMemory: 8GB
+getTotalMemorySysctl: 8GB
+
+active_count: 124416
+inactive_count: 117268
+wire_count: 69299
+throttled_count: 0
+purgeable_count: 1598
+vm_stat.zero_fill_count: 158574
+external_page_count: 83776
+total_uncompressed_pages_in_compressor: 423931
+vm_stat.cow_faults: 3138844
+compressor_page_count: 164319
+speculative_count: 666
+vm_stat.zero_fill_count: 24885488
+free_count: 7370
+speculative_count: 666
+
+Used: 3GB Free: 115MB Total: 3GB
+<>< CPU Load: 5.590063%
+<>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><>
+getTotalSystemMemory: 8GB
+getTotalMemorySysctl: 8GB
+
+active_count: 121817
+inactive_count: 120430
+wire_count: 69002
+throttled_count: 0
+purgeable_count: 1894
+vm_stat.zero_fill_count: 159134
+external_page_count: 83781
+total_uncompressed_pages_in_compressor: 423913
+vm_stat.cow_faults: 3138934
+compressor_page_count: 164315
+speculative_count: 668
+vm_stat.zero_fill_count: 24885894
+free_count: 7075
+speculative_count: 668
+
+Used: 3GB Free: 110MB Total: 3GB
+<>< CPU Load: 5.597013%
+<>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><> <>< ><>
+getTotalSystemMemory: 8GB
+getTotalMemorySysctl: 8GB
+
+active_count: 122801
+inactive_count: 119983
+wire_count: 67189
+throttled_count: 0
+purgeable_count: 1902
+vm_stat.zero_fill_count: 159655
+external_page_count: 84376
+total_uncompressed_pages_in_compressor: 421962
+vm_stat.cow_faults: 3139019
+compressor_page_count: 163467
+speculative_count: 1247
+vm_stat.zero_fill_count: 24885941
+free_count: 9212
+speculative_count: 1247
+
+Used: 3GB Free: 143MB Total: 3GB
+<>< CPU Load: 4.856789%
